@@ -1,4 +1,16 @@
-Spotify Clone
+<h1 align="center">
+🎵 Clone do Spotify. 
+</h1>
 
-A direct clone of the spotify website
-by Gustavo Matos
+<h4 align="center">
+cópia simplificada do Spotify.
+</h4>
+
+## 🛠 Tecnologias utilizadas
+Para o desenvolvimento deste site utilizei as seguintes tecnologias:
+- Visual Studio Code (Editor de código);
+- HTML5;
+- CSS3;
+- Bootstrap;
+
+---
